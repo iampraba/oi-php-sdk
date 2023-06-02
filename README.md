@@ -1,5 +1,13 @@
 Office Integrator implementation code sample for PHP language.
 
+# Archival Notice:
+
+This sample implementation is archived. You can continue to use it, but no new features or support requests will be accepted. For the new version, refer to
+
+ZOHO Office Integrator SDK :
+- [GitHub Repository](https://github.com/iampraba/zoi-php-sdk)
+
+
 ## How to test?
 
 Clone this repository in your local machine.
